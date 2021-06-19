@@ -5,17 +5,17 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "4657ccf220042f7bbfa957c5ec2d7bf7"
+        API_ID = 4012617
+        BOT_TOKEN = "1849819232:AAE7lixBQYMnpFkgTXYEhp_vc-XUZK6oTWs"
+        BASE_URL_OF_BOT = "http://t.me/Leech_tortool_victim_bot"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
-        OWNER_ID = 0
+        ALD_USR = [1234736792,-1001166055053]
+        OWNER_ID = 1234736792
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = False
